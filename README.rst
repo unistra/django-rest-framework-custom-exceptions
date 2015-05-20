@@ -27,3 +27,13 @@ Configure your rest framework : ::
     REST_FRAMEWORK = {
         'EXCEPTION_HANDLER': 'rest_framework_custom_exceptions.exceptions.simple_error_handler'
     }
+
+Example
+-------
+
+The simple error handler show exceptions like this : ::
+    
+    {
+        "error": "Not found"
+    }
+
