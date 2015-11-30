@@ -6,7 +6,7 @@ from rest_framework import status, exceptions
 from rest_framework.response import Response
 
 
-def simple_error_handler(exc):
+def simple_error_handler(exc, *args):
     """
     Returns the response that should be used for any given exception.
 
