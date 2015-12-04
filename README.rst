@@ -20,7 +20,7 @@ Install the package from pypi: ::
 
 Add the application in your django settings: ::
 
-    DJANGO_APPS = ('rest_framework_custom_exceptions',)
+    INSTALLED_APPS = ('rest_framework_custom_exceptions',)
 
 Configure your rest framework : ::
 
