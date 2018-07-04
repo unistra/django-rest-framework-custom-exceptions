@@ -12,6 +12,17 @@ Works with :
   * Django >= 1.10
   * Django Rest Framework >= 3.5
 
+.. image:: https://travis-ci.org/unistra/django-rest-framework-custom-exceptions.svg?branch=master
+    :target: https://travis-ci.org/unistra/django-rest-framework-custom-exceptions
+
+.. image:: https://coveralls.io/repos/github/unistra/django-rest-framework-custom-exceptions/badge.svg?branch=master
+    :target: https://coveralls.io/github/unistra/django-rest-framework-custom-exceptions?branch=master
+
+.. image:: https://landscape.io/github/unistra/django-rest-framework-custom-exceptions/master/landscape.svg?style=flat
+    :target: https://landscape.io/github/unistra/django-rest-framework-custom-exceptions/master
+    :alt: Code Health
+
+
 Installation
 ------------
 
