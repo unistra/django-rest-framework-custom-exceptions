@@ -6,10 +6,11 @@ Custom exceptions for django rest framework
 Compatibility
 -------------
 
-work with :
- * Python 2.7, 3.3, 3.4
- * Dango 1.7, 1.8
- * Django Rest Framework >= 3.0
+Works with :
+
+  * Python 2.7, 3.4, 3.5, 3.6
+  * Django >= 1.10
+  * Django Rest Framework >= 3.5
 
 Installation
 ------------
